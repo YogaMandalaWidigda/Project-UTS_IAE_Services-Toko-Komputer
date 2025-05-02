@@ -4,7 +4,7 @@
 Endpoint untuk mendapatkan data penjualan berdasarkan ID
 ### Method: GET
 >```
->undefined
+>{{order_url}}/api/orders/5
 >```
 ### Response: 200
 ```json
