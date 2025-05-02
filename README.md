@@ -1,10 +1,10 @@
 # Project: Product Service
 
-## End-point: List Product 2
+## End-point: List Product
 Endpoint untuk mendapatkan data seluruh produk yang ada
 ### Method: GET
 >```
->undefined
+>{{product_url}}/api/products
 >```
 ### Response: 200
 ```json
@@ -994,7 +994,7 @@ Endpoint untuk menabahkan data produk
 Endpoint untuk mendapatkan edit data produk yang sudah ada
 ### Method: PUT
 >```
->undefined
+>{{product_url}}/api/products/91
 >```
 ### Body (**raw**)
 
