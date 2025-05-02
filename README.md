@@ -1,4 +1,3 @@
-<!-- LINK POSTMAN : https://documenter.getpostman.com/view/44194991/2sB2izFESN -->
 # Project: User Service
 
 ## End-point: List Customer
@@ -208,7 +207,7 @@ Endpoint untuk menambahkan data customer baru
 Endpoint untuk edit data customer berdasarkan ID
 ### Method: PUT
 >```
->undefined
+>{{user_url}}/api/customers/12
 >```
 ### Response: 200
 ```json
